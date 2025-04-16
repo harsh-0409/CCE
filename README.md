@@ -130,6 +130,11 @@ git push origin your_branch_name
 **Note:** Please make sure to use your own branch when contributing.
 
 
+# Acknowledgments
+
+We would like to thank the following individuals and organizations for their contributions and support:
+
+- Jashwanth for code
 ## Connect with me
 
 - [GitHub](https://www.github.com/harsh-0409/)
